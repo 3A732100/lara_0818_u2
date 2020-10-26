@@ -11,7 +11,7 @@
 </body>
 </html>
 
-//blade語法
+
 @extends('layouts.master')
 @section('title','Home')
 @section('content')
